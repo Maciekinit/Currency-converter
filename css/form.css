@@ -1,0 +1,61 @@
+.form__labeltext {
+    width: 100px;
+    max-width: 300px;
+    display: inline-block;
+    margin-right: 5px;
+  }
+  
+  .form__field {
+    border: 1px solid #adc5c7;
+    padding: 10px;
+    width: 100%;
+    max-width: 360px;
+    border-radius: 5px;
+  }
+  
+  .form__field:read-only {
+    background-color: rgba(168, 220, 184, 0.178);
+  }
+  
+  .form__button {
+    width: 100%;
+    border: none;
+    background-color: hsl(204, 97%, 54%);
+    color: whitesmoke;
+    padding: 8px;
+    border-radius: 20px;
+  }
+  
+  .form__button:hover {
+    background-color: hsl(204, 97%, 58%);
+  }
+  
+  .form__button:active {
+    background-color: hsl(204, 97%, 64%);
+  }
+  
+  .form__fildset {
+    border: 1px solid #0f6e7d;
+    padding: 30px;
+    border-radius: 5px;
+    margin: 20px 0;
+  }
+  
+  .form__legend {
+    background-color: hsl(204, 97%, 54%);
+    color: whitesmoke;
+    border-radius: 5px;
+    padding: 12px;
+  }
+  
+  .form__field:required {
+    border-color: #6d7f73;
+  }
+  
+  .form__field:invalid {
+    background-color: #feefef;
+  }
+  
+  .form__result {
+    font-weight: 800;
+  }

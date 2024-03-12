@@ -1,0 +1,19 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+  background-color: rgba(242, 244, 245, 0.73);
+  background-image: url("../images/money.jpg");
+}
+
+.header__title {
+  text-align: center;
+}
