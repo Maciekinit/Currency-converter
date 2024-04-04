@@ -26,5 +26,5 @@ This application allows you to calculate various currency rates by converting PL
 - ES6+ JavaScript
 
 ## visit the website
-Visit my website here: (https://maciekinit.github.io/Currency-converter/)
+Visit my website here: (https://maciekinit.github.io/Currency-converter/index.html)
 
